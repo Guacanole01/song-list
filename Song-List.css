@@ -1,31 +1,66 @@
-Group-info {
-    color:wheat;
-    background-color: grey;
-    width: 100%;
-    text-align: center;
-}
-
-Song {
-    display: block;
-    border: 1px solid black;
-    margin: 10px;
-    padding: 10px;
-    background-color: whitesmoke;
-
-}
-
-song-Name, artist-Name, song-genre, song-year {
-    display: block;
-    text-align: center;
-}
-
-song-Name {
-    text-decoration: underline;
-    font-weight: bolder;
-    font-size: 20px;
-}
-
-artist-Name {
-    color: blue;
-    font-style: italic;
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Song-List.css"?>
+<Group-info>
+   <group-Name>Better Her Than Me:</group-Name>
+   <group-website>http://www.betterherthanme.com/#home1</group-website>
+   <Song>
+      <song-Name>Ain't Too Proud to Beg</song-Name>
+      <artist-Name>The Temptations</artist-Name>
+      <song-genre>Soul R and B</song-genre>
+      <song-year>1966</song-year>
+   </Song>
+   <Song>
+      <song-Name>Call Me Maybe</song-Name>
+      <artist-Name>Carly Rae Jepsen</artist-Name>
+      <song-genre>Pop</song-genre>
+      <song-year>2011</song-year>
+   </Song>
+   <Song>
+      <song-Name>Footloose</song-Name>
+      <artist-Name>Kenny Loggins</artist-Name>
+      <song-genre>Yatch Rock</song-genre>
+      <song-year>1983</song-year>
+   </Song>
+   <Song>
+      <song-Name>I Wish</song-Name>
+      <artist-Name>Stevie Wonder</artist-Name>
+      <song-genre>Funk</song-genre>
+      <song-year>1995</song-year>
+   </Song>
+   <Song>
+      <song-Name>I'm a Believer</song-Name>
+      <artist-Name>The Monkees</artist-Name>
+      <song-genre>Pop</song-genre>
+      <song-year>1966</song-year>
+   </Song>
+   <Song>
+      <song-Name>Rolling in the Deep</song-Name>
+      <artist-Name>Adele</artist-Name>
+      <song-genre>Pop</song-genre>
+      <song-year>2010</song-year>
+   </Song>
+   <Song>
+      <song-Name>Wanna Be Startin' Somethin'</song-Name>
+      <artist-Name>Michael Jackson</artist-Name>
+      <song-genre>R and B/Soul</song-genre>
+      <song-year>1983</song-year>
+   </Song>
+   <Song>
+      <song-Name>Rehab</song-Name>
+      <artist-Name>Amy Winehouse</artist-Name>
+      <song-genre>R and B/Soul</song-genre>
+      <song-year>2006</song-year>
+   </Song>
+   <Song>
+      <song-Name>Dancing With Myself</song-Name>
+      <artist-Name>Billy Idol</artist-Name>
+      <song-genre>Pop/Rock</song-genre>
+      <song-year>1982</song-year>
+   </Song>
+   <Song>
+      <song-Name>Cecilia</song-Name>
+      <artist-Name>Simon and Garfunkel</artist-Name>
+      <song-genre>Folk/Pop</song-genre>
+      <song-year>1995</song-year>
+   </Song>
+</Group-info>
